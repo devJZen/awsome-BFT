@@ -1,5 +1,8 @@
 # 📝 awsome-BFT
 
+i didn't study and reason: https://github.com/devJZen/rust-cat
+
+
 > A comprehensive guide for studying Byzantine Fault Tolerance and consensus mechanisms
 > 블록체인의 '합의'를 공부하는 사람들을 위한 지식 허브
 
